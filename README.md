@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar Adel</h1>
+<h1 align="center">Hi <img src="https://github.com/omar-adel1/omar-adel1/blob/main/images/Wave.gif" height="55px" width="55px">, I'm Omar Adel</h1>
 <h3 align="center">Junior Healthcare Engineering and Managenment</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-adel1&label=Profile%20views&color=0e75b6&style=flat" alt="omar-adel1" /> </p>
