@@ -1,6 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/omar-adel1/omar-adel1/blob/main/images/Wave.gif" height="55px" width="55px">, I'm Omar Adel</h1>
 <h3 align="center">Junior Healthcare Engineering and Managenment</h3>
 I'm a student at Cairo University's Faculty of Engineering, specializing in Healthcare Engineering and Management. Currently, I am actively involved in various projects ranging from creating static websites to working on computer graphics and digital signal processing applications
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharifehab&label=Profile%20views&color=0e75b6&style=flat" alt="sharifehab" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/omar-adel-59b707231/" target="_blank"><img src="https://github.com/omar-adel1/omar-adel1/blob/main/images/linkiden.png" target="_blank" height="40"></a>
