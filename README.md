@@ -19,8 +19,28 @@ I'm a student at Cairo University's Faculty of Engineering, specializing in Heal
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-adel1&show_icons=true&locale=en&layout=compact" alt="omar-adel1" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=omar-adel1&show_icons=true&locale=en" alt="omar-adel1" /></p>
----
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar-adel1" alt="omar-adel1" /></a> </p>
----
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-adel1&" alt="omar-adel1" /></p>
+
+-----------------------------
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sharifehab&show_icons=true&include_all_commits=true&count_private=true&line_height=40&theme=dark" alt="sharifehab's GitHub stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sharifehab&langs_count=5&theme=dark" alt="sharifehab's top 5 languages"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/sharifehab">
+    <img src="https://github-profile-trophy.vercel.app/?username=sharifehab&theme=onedark" alt="sharifehab's Trophies"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-adel1&" alt="omar-adel1"/>
+</p>
 
