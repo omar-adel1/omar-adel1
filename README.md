@@ -17,4 +17,4 @@ I'm a student at Cairo University's Faculty of Engineering, specializing in Heal
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-adel1&show_icons=true&locale=en&layout=compact" alt="omar-adel1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omar-adel1&show_icons=true&locale=en" alt="omar-adel1" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-adel1&" alt="omar-adel1" /></p>
