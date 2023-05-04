@@ -20,5 +20,5 @@ I'm a student at Cairo University's Faculty of Engineering, specializing in Heal
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=omar-adel1&show_icons=true&locale=en" alt="omar-adel1" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar-adel1" alt="omar-adel1" /></a> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-adel1&" alt="omar-adel1" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-adel1&" alt="omar-adel1" /></p>
 
