@@ -22,7 +22,7 @@ I'm a student at Cairo University's Faculty of Engineering, specializing in Heal
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-adel1&show_icons=true&icon_color=6FDA44&locale=en&layout=compact&theme=dark&text_color=FFFFFF" alt="omar-adel1" />
-  <img src="https://github-readme-stats.vercel.app/api?username=omar-adel1&show_icons=true&&icon_color=6FDA44locale=en&theme=dark&text_color=FFFFFF" alt="omar-adel1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omar-adel1&show_icons=true&&icon_color=6FDA44&theme=dark&text_color=FFFFFF" alt="omar-adel1" />
 </p>
 
 ---
