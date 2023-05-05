@@ -55,7 +55,7 @@ I'm a student at Cairo University's Faculty of Engineering, specializing in Heal
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-adel1&show_icons=true&icon_color=6FDA44&locale=en&layout=compact&theme=dark&text_color=FFFFFF" alt="omar-adel1's Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=omar-adel1&show_icons=true&&icon_color=6FDA44&theme=dark&text_color=FFFFFF" alt="omar-adel1's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omar-adel1&show_icons=true&locale=en&layout=compact&icon_color=6FDA44&theme=dark&text_color=FFFFFF" alt="omar-adel1's Github Stats" />
 </p>
 
 
@@ -72,4 +72,5 @@ I'm a student at Cairo University's Faculty of Engineering, specializing in Heal
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-adel1&theme=dark&hide_border=true&stroke=FFFFFF&ring=6FDA44&fire=6FDA44&currStreakLabel=FFFFFF&sideLabels=FFFFFF" alt="omar-adel1's Github Streak" />
 </p>
+
 
