@@ -14,39 +14,42 @@ I'm a student at Cairo University's Faculty of Engineering, specializing in Heal
 - 📫 How to reach me **Omar.Abdelazim02@eng-st.cu.edu.eg**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/omar-adel-59b707231/" target="_blank"><img src="https://github.com/omar-adel1/omar-adel1/blob/main/images/linkiden.png" target="_blank" height="40"></a>
-<a href="https://www.facebook.com/profile.php?id=100022384870774" target="_blank"><img src="https://github.com/omar-adel1/omar-adel1/blob/main/images/facebook.png" target="_blank" height="40"></a>
+<table>
+  <tr>
+    <td style="padding: 10px;">
+      <a href="https://www.linkedin.com/in/omar-adel-59b707231/" target="_blank">
+        <img src="https://github.com/omar-adel1/omar-adel1/blob/main/images/linkiden.png" height="40" alt="LinkedIn">
+      </a>
+    </td>
+    <td style="padding: 10px;">
+      <a href="https://www.facebook.com/profile.php?id=100022384870774" target="_blank">
+        <img src="https://github.com/omar-adel1/omar-adel1/blob/main/images/facebook.png" height="40" alt="Facebook">
+      </a>
+    </td>
+    <td style="padding: 10px;">
+      <a href="https://instagram.com/omar_adel306" target="_blank">
+        <img src="https://github.com/omar-adel1/omar-adel1/blob/main/images/instagram.avif" height="50" alt="Instagram">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <h3 align="left">Skills and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>&nbsp;
-  <a href="https://www.qt.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40" />
-  </a>&nbsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" />
-  </a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>&nbsp;
-  <a href="https://www.mathworks.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" />
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>&nbsp;
-  <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" /></a></td>
+    <td align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" /></a></td>
+    <td align="center"><a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" /></a></td>
+    <td align="center"><a href="https://www.qt.io/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="50" height="50" /></a></td>
+    <td align="center"><a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="50" height="50" /></a></td>
+    <td align="center"><a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" /></a></td>
+    <td align="center"><a href="https://www.mathworks.com/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" height="50" /></a></td>
+    <td align="center"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" /></a></td>
+    <td align="center"><a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50" /></a></td>
+  </tr>
+</table>
+
 
 
 <p align="center">
