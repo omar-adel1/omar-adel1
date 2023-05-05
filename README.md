@@ -34,6 +34,7 @@ I'm a student at Cairo University's Faculty of Engineering, specializing in Heal
   </tr>
 </table>
 
+---
 
 <h3 align="left">Skills and Tools:</h3>
 <table>
@@ -50,7 +51,7 @@ I'm a student at Cairo University's Faculty of Engineering, specializing in Heal
   </tr>
 </table>
 
-
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-adel1&show_icons=true&icon_color=6FDA44&locale=en&layout=compact&theme=dark&text_color=FFFFFF" alt="omar-adel1's Top Languages" />
