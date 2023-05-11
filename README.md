@@ -54,7 +54,7 @@ I'm a student at Cairo University's Faculty of Engineering, specializing in Heal
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=omar-adel1&show_icons=true&locale=en&layout=compact&icon_color=6FDA44&theme=dark&text_color=FFFFFF" alt="omar-adel1's Github Stats" style="float:left"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=omar-adel1&show_icons=true&locale=en&layout=compact&icon_color=6FDA44&theme=dark&text_color=FFFFFF" alt="omar-adel1's Github Stats" style="float:left" width="60%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=omar-adel1&show_icons=true&icon_color=6FDA44&locale=en&layout=compact&theme=dark&text_color=FFFFFF" alt="omar-adel1's Top Languages" style="float:right" width="45%" />
 </p>
 
