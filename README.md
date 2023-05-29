@@ -5,7 +5,7 @@
 <h4 align="left">View Count</h4>
 <p align="left"> <img src="https://profile-counter.glitch.me/omar-adel1/count.svg" alt="View Count_omar-adel1" /> </p>
 
-- 🎓 I’m currently studying engineering at Cairo University
+- 🎓 I’m currently studying **engineering at Cairo University**
 
 - 🔭 I’m currently working on **Digital Signal Processing, Computer Graphics**
 
