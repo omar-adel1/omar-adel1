@@ -2,9 +2,6 @@
 <h3 align="center">Junior Healthcare Engineering and Managenment</h3>
 I'm a student at Cairo University's Faculty of Engineering, specializing in Healthcare Engineering and Management. Currently, I am actively involved in various projects ranging from creating static websites to working on computer graphics and digital signal processing applications
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=omar-adel1&label=Profile%20views&color=0e75b6&style=flat" alt="omar-adel1" />
-</p>
  <td>
    <h4 align="left">View Count</h4>
    <a href=#><img src="https://profile-counter.glitch.me/omar-adel1/count.svg" alt="View Count" width="200" align="left"></a>
