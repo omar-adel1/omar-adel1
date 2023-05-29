@@ -7,7 +7,10 @@
 
 
 - 🔭 I’m currently working on **Digital Signal Processing, Computer Graphics**
+
 - 📫 How to reach me **Omar.Abdelazim02@eng-st.cu.edu.eg**
+
+- ⚡ Fun fact **I'm unpredictable**
 
 <h3 align="left">Connect with me:</h3>
 <table>
