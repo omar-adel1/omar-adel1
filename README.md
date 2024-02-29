@@ -51,7 +51,7 @@
     <td align="center"><a href="https://www.mathworks.com/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" height="50" /></a></td>
     <td align="center"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" /></a></td>
     <td align="center"><a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50" /></a></td>
-    <td align="center"><a href="https://www.notion.so/product?utm_source=affl&utm_medium=nguyenthithuthao307&pscd=affiliate.notion.so&ps_partner_key=bmd1eWVudGhpdGh1dGhhbzMwNw&gad_source=1&gclid=Cj0KCQiA84CvBhCaARIsAMkAvkKoyqIz1EOiELFxBwiD2h206GBHj8tfB1VNXKMPZiwTceNg20GLZ6AaAgpUEALw_wcB&ps_xid=bZBfInZEflEnIX&gsxid=bZBfInZEflEnIX&gspk=bmd1eWVudGhpdGh1dGhhbzMwNw" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Notion-%23000000.svg" alt="Notion" width="50" height="50" /></a></td>
+    <td align="center"><a href="https://www.notion.so/product?utm_source=affl&utm_medium=nguyenthithuthao307&pscd=affiliate.notion.so&ps_partner_key=bmd1eWVudGhpdGh1dGhhbzMwNw&gad_source=1&gclid=Cj0KCQiA84CvBhCaARIsAMkAvkKoyqIz1EOiELFxBwiD2h206GBHj8tfB1VNXKMPZiwTceNg20GLZ6AaAgpUEALw_wcB&ps_xid=bZBfInZEflEnIX&gsxid=bZBfInZEflEnIX&gspk=bmd1eWVudGhpdGh1dGhhbzMwNw" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="50" height="50" /></a></td>
   </tr>
 </table>
 
