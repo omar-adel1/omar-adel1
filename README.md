@@ -7,7 +7,7 @@
 
 - 🎓 I’m currently studying **engineering at Cairo University**
 
-- 🔭 I’m currently working on **Bioinformatics, Software Engineering, Image Processing & Computer Vision**
+- 🔭 I’m currently working on **Machine Learning**
 
 - 📫 How to reach me **Omar.Abdelazim02@eng-st.cu.edu.eg**
 
