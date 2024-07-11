@@ -31,6 +31,11 @@
         <img src="https://github.com/omar-adel1/omar-adel1/blob/main/images/instagram.avif" height="50" alt="Instagram">
       </a>
     </td>
+    <td style="padding: 10px;">
+      <a href="https://www.researchgate.net/profile/Omar-Adel-37" target="_blank">
+        <img src="https://github.com/omar-adel1/omar-adel1/blob/main/images/ResearchGate.png" height="40" alt="ResearchGate">
+      </a>
+    </td>
   </tr>
 </table>
 
