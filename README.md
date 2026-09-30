@@ -100,18 +100,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
   </a>
   &nbsp;
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  </a>
-  &nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-  </a>
-  &nbsp;
   <a href="https://www.mathworks.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="45" height="45" alt="MATLAB"/>
   </a>
@@ -124,10 +112,6 @@
 <p align="left">
   <a href="https://react.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  </a>
-  &nbsp;
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
   </a>
   &nbsp;
   <a href="https://fastapi.tiangolo.com/" target="_blank">
@@ -193,37 +177,10 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=omar-adel1&show_icons=true&locale=en&icon_color=6FDA44&theme=dark&text_color=FFFFFF" alt="Omar Adel's GitHub Stats" width="52%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=omar-adel1&show_icons=true&locale=en&layout=compact&icon_color=6FDA44&theme=dark&text_color=FFFFFF" alt="Omar Adel's Top Languages" width="43%" />
-</p>
-
----
-
 ### 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-adel1&theme=dark&hide_border=true&stroke=FFFFFF&ring=6FDA44&fire=6FDA44&currStreakLabel=FFFFFF&sideLabels=FFFFFF" alt="Omar Adel's GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=omar-adel1&theme=darkhub&no-frame=true&margin-w=15&row=1" alt="Omar Adel's GitHub Trophies" />
-  </a>
-</p>
-
----
-
-### 👀 Profile Views
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/omar-adel1/count.svg" alt="Omar Adel Profile Views" />
 </p>
 
 <p align="center">
